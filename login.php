@@ -11,7 +11,7 @@
 
     <center>
         <section>
-            <form action="./Includes/login.inc.php" method="POST">
+            <form action="login.inc.php" method="POST">
                 <label for="">Log In</label> <br><br>
                 <input type="text"  name="uid" placeholder="username/email"><br><br>
                 <input type="text"  name="password" placeholder="password"><br><br>
