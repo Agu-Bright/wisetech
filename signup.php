@@ -9,7 +9,7 @@
 <body>
     <center>
         <section>
-            <form action="signup.inc.php" method="post">
+            <form action=" ./Includes/signup.inc.php" method="post">
                 <label for="">Sign Up</label><br><br>
                 <input type="text" name="name" placeholder="Full name..."><br><br>
                 <input type="text" name="email" placeholder="Email..."><br><br>
