@@ -89,7 +89,7 @@ function createUser($conn, $name, $email, $username, $pwd){
     mysqli_stmt_bind_param($stmt, "ssssi", $name, $email, $username, $hashedpwd, $code);
     mysqli_stmt_execute($stmt);
     mysqli_stmt_close($stmt);
-    header ('location:confirm.php');
+    header ('location:login.php');
     require 'mailer.php';
     exit();
 
