@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from mutualassets.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 May 2022 16:58:34 GMT -->
+
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
   <meta charset="UTF-8">
@@ -10,7 +10,7 @@
   
     <title>WiseTech Global -Home</title>
     <meta name="description" content="WiseTech Global Company is at your service with its user-friendly features, secure infrastructure, and applications that make a difference. A firm for profitable investment solution, your financial stability, and freedom is our priority, join us to make your financial dreams come true">
-    <meta name="keywords" content="WiseTech Global Company,Most Trusted Cryptocurrency Platform,mutualassets.net">
+    <meta name="keywords" content="WiseTech Global Company,Most Trusted Cryptocurrency Platform,wisetech global.com">
     <link rel="shortcut icon" href="assets/images/logoIcon/favicon.png" type="image/x-icon">
 
     
@@ -167,9 +167,6 @@
                             <div class="nav-btn nav-toggler navSidebar-button clearfix">
                                 <i class="fas fa-align-right"></i>
                             </div>
-                            <!--<div class="btn-box">-->
-                            <!--    <a href="https://t.me/maestrofininv" class="theme-btn style-one">Join Telegram</a>-->
-                            <!--</div>-->
                         </div>
                     </div>
                 </div>
@@ -206,21 +203,13 @@
                 <h4>Contact Info</h4>
                 <ul>
                     <li>Wordsworth Street, Sydenham, , New Zealand</li>
-                    <!--<li><a href="tel:+8801682648101">+88 01682648101</a></li>-->
-                    <li><a href="mailto:support@mutualassets.net">support@mutualassets.net</a></li>
+                    <li><a href="mailto:support@wisetechglobal@gmail.com">support@wisetechglobal</a></li>
                 </ul>
             </div>
-            <!--<div class="social-links">-->
-            <!--    <ul class="clearfix">-->
-                    <!--<li><a href="index-2.html"><span class="fab fa-twitter"></span></a></li>-->
-            <!--        <li><a href="index-2.html"><span class="fab fa-facebook-square"></span></a></li>-->
-                    <!--<li><a href="index-2.html"><span class="fab fa-whatsapp"></span></a></li>-->
-            <!--        <li><a href="index-2.html"><span class="fab fa-instagram"></span></a></li>-->
-            <!--        <li><a href="index-2.html"><span class="fab fa-youtube"></span></a></li>-->
-            <!--    </ul>-->
-            <!--</div>-->
+            
         </nav>
-    </div><!-- End Mobile Menu -->
+    </div>
+    <!-- End Mobile Menu -->
 
 
     
@@ -902,7 +891,7 @@
                   </h2>
                 </div>
             
-                <div id="collapse0" class="collapse" aria-labelledby="heading0" data-parent="#accordionExample" style="">
+                <div id="collapse0" class="collapse" aria-labelledby="heading0" data-parent="#accordionExample" >
                   <div class="card-body" style="color:#fff;">
                     Deposit and withdrawal are available at any time. Be sure, that your funds are not used in any ongoing trade before the withdrawal. The available amount is shown in your dashboard on the main page of Investing platform.                  </div>
                 </div>
@@ -917,7 +906,7 @@
                   </h2>
                 </div>
             
-                <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordionExample" style="">
+                <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordionExample" >
                   <div class="card-body" style="color:#fff;">
                     You can see this anytime on your accounts dashboard.                  </div>
                 </div>
@@ -932,7 +921,7 @@
                   </h2>
                 </div>
             
-                <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordionExample" style="">
+                <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordionExample" >
                   <div class="card-body" style="color:#fff;">
                     Visit the password reset page, type in your email address and click the `Reset` button.                  </div>
                 </div>
@@ -947,7 +936,7 @@
                   </h2>
                 </div>
             
-                <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordionExample" style="">
+                <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordionExample" >
                   <div class="card-body" style="color:#fff;">
                     You will get an automatic notification once we send the funds and you can always check your transactions or account balance. Your chosen payment system dictates how long it will take for the funds to reach you.                  </div>
                 </div>
@@ -962,7 +951,7 @@
                   </h2>
                 </div>
             
-                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordionExample" style="">
+                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordionExample" >
                   <div class="card-body" style="color:#fff;">
                     You can withdraw the full amount of your account balance minus the funds that are used currently for supporting opened positions.                  </div>
                 </div>
@@ -977,7 +966,7 @@
                   </h2>
                 </div>
             
-                <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordionExample" style="">
+                <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordionExample" >
                   <div class="card-body" style="color:#fff;">
                     A client can only invest three times in a plan, the. Migrate to a higher plan. 
 But note! A client can unlock unlimited investment in a plan if he / she has more than 20 direct active referrals                  </div>
@@ -1034,7 +1023,7 @@ But note! A client can unlock unlimited investment in a plan if he / she has mor
                         </div>
                     </div>
                 </div>
-                                   <div class="testimonial-content">
+                    <div class="testimonial-content">
                     <div class="inner-box">
                         <div class="text">
                             <i class="fas fa-quote-right"></i>
@@ -1044,7 +1033,7 @@ Bravo  WiseTech Global Investment. good work.</p>
                         <div class="author-info">
                             <figure class="image-box"><img src="assets/images/frontend/testimonial/623731cdabfc11647784397.jpg" alt=""></figure>
                             <h5>Linda philips</h5>
-                            <span class="designation">User From Russia</span>
+                            <span class="designation">User From Japan</span>
                         </div>
                     </div>
                 </div>
@@ -1279,45 +1268,55 @@ Bravo  WiseTech Global Investment. good work.</p>
               </div>
             </div><!-- investor-card end -->
           </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
+            <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
             <div class="investor-card border-radius--5">
               <div class="investor-card__thumb bg_img background-position-y-top" data-background="assets/images/user/profile/1652096713_rubal76.jpg"></div>
               <div class="investor-card__content">
                 <h6 class="name">rubal76</h6>
                 <span class="amount f-size-14">Investment - $56167.72</span>
               </div>
-            </div><!-- investor-card end -->
+            </div>
+            <!-- investor-card end -->
+
+
           </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
+            <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
             <div class="investor-card border-radius--5">
               <div class="investor-card__thumb bg_img background-position-y-top" data-background="assets/images/user/profile/1651971964_Kushtia43810.jpg"></div>
               <div class="investor-card__content">
                 <h6 class="name">Kushtia43810</h6>
                 <span class="amount f-size-14">Investment - $52672.69</span>
               </div>
-            </div><!-- investor-card end -->
+            </div>
+            <!-- investor-card end -->
+
           </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
+            <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
             <div class="investor-card border-radius--5">
               <div class="investor-card__thumb bg_img background-position-y-top" data-background="assets/images/user/profile/1652066965_Zahiddoaba.jpg"></div>
               <div class="investor-card__content">
                 <h6 class="name">Zahiddoaba</h6>
                 <span class="amount f-size-14">Investment - $51588.00</span>
               </div>
-            </div><!-- investor-card end -->
+            </div>
+            <!-- investor-card end -->
+
           </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
+            <div class="col-xl-3 col-lg-4 col-sm-6 mb-30">
             <div class="investor-card border-radius--5">
               <div class="investor-card__thumb bg_img background-position-y-top" data-background="placeholder-image/800x800.jpg"></div>
               <div class="investor-card__content">
                 <h6 class="name">cwenner</h6>
                 <span class="amount f-size-14">Investment - $50000.00</span>
               </div>
-            </div><!-- investor-card end -->
+            </div>
+            <!-- investor-card end -->
           </div>
-                  </div>
+        </div>
       </div>
-    </section>                    <section class="pb-120">
+    </section>                   
+    
+    <section class="pb-120">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-xl-8">
@@ -1329,7 +1328,9 @@ Bravo  WiseTech Global Investment. good work.</p>
           </div>
         </div>
       </div>
-    </section>                    <section class="pb-120">
+    </section>                   
+    
+    <section class="pb-120">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center">
@@ -1338,41 +1339,54 @@ Bravo  WiseTech Global Investment. good work.</p>
               <p>We accept Bitcoin And Usdt payment methods to make your investment process easier with our platform.</p>
             </div>
           </div>
-        </div><!-- row end -->
+        </div>
+        <!-- row end -->
         <div class="row">
           <div class="col-lg-12">
+
             <div class="payment-slider">
-                            <div class="single-slide">
-                <div class="brand-item">
-                  <img src="assets/images/gateway/6163de9142ec41633934993.png" alt="image">
-                </div><!-- brand-item end -->
+                <div class="single-slide">
+                  <div class="brand-item">
+                    <img src="assets/images/gateway/6163de9142ec41633934993.png" alt="image">
+                  </div>
+                  <!-- brand-item end -->
+                </div>
+                <div class="single-slide">
+                  <div class="brand-item">
+                    <img src="assets/images/gateway/617fbb3b45d391635760955.png" alt="image">
+                  </div>
+                  <!-- brand-item end -->
               </div>
-                            <div class="single-slide">
-                <div class="brand-item">
-                  <img src="assets/images/gateway/617fbb3b45d391635760955.png" alt="image">
-                </div><!-- brand-item end -->
-              </div>
-                          </div><!-- payment-slider end -->
+            </div>
+          
+            <!-- payment-slider end -->
           </div>
         </div>
       </div>
-    </section>                    <section class="pb-120">
+    </section> 
+
+    <section class="pb-120">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-10">
             <div class="subscribe-wrapper bg_img" data-background="assets/images/frontend/subscribe/5fce3af5a116f1607351029.jpg">
               <div class="row align-items-center">
+
                 <div class="col-lg-5">
                   <h2 style="color:#fff;"class="title">Subscribe Our Newsletter</h2>
                 </div>
                 <div class="col-lg-7 mt-lg-0 mt-4">
+
                   <form class="subscribe-form" method="post">
-                    <input type="hidden" name="_token" value="ikiYh1O9XtEQt2TEmS6XDh64UYGgdmYFC20vk79L">                    <input type="email" class="form-control" name="email" placeholder="Email Address">
+                    <input type="hidden" name="" value="">                    
+                    <input type="email" class="form-control" name="email" placeholder="Email Address">
                     <button type="submit" class="subscribe-btn"><i class="las la-envelope"></i></button>
                   </form>
+
                 </div>
               </div>
-            </div><!-- subscribe-wrapper end -->
+            </div>
+            <!-- subscribe-wrapper end -->
           </div>
         </div>
       </div>
@@ -1386,19 +1400,21 @@ Bravo  WiseTech Global Investment. good work.</p>
     <div class="modal-dialog" role="document">
         <div class="modal-content modal-content-bg">
             <div class="modal-header">
-                <strong class="modal-title text-white" id="ModalLabel">
-                                        At first sign in your account                                    </strong>
+                <strong class="modal-title text-white" id="ModalLabel">At first sign in your account</strong>
                 <a href="javascript:void(0)" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </a>
             </div>
-            <form action="https://mutualassets.net/user/plans" method="post" class="register">
+
+
+            <form action="" method="post" class="register">
                 <input type="hidden" name="_token" value="ikiYh1O9XtEQt2TEmS6XDh64UYGgdmYFC20vk79L">                
-                                <div class="modal-footer">
-                    <a href="login.html" type="button"
-                    class="btn btn-success custom-success w-100">At first sign in your account</a>
+                <div class="modal-footer">
+                    <a href="login.html" type="button"class="btn btn-success custom-success w-100">At first sign in your account</a>
                 </div>
-                            </form>
+            </form>
+
+
         </div>
     </div>
 </div>
@@ -1421,16 +1437,10 @@ Bravo  WiseTech Global Investment. good work.</p>
                                 </div>
                                 <ul class="info-list clearfix">
                                     <li><i class="fas fa-map-marker-alt"></i>Wordsworth Street, Sydenham, , New Zealand</li>
-                                    <li><i class="fas fa-envelope"></i>Email <a href="mailto:support@mutualassets.net">support@mutualassets.net</a></li>
-                                   <!--<li><i class="fas fa-headphones"></i>Phone: +1833MAESTR0 <a href="tel:+1833-623-7870">+1833-623-7870</a></li>-->
+                                    <li><i class="fas fa-envelope"></i>Email <a href="mailto:wisetechglobal@gmail.com">support@wisetechglobal</a></li>
+                                   
                                 </ul>
-                                <!--<ul class="social-links clearfix">-->
-                                    <!--<li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>-->
-                                <!--    <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>-->
-                                <!--    <li><a href="index-2.html"><i class="fab fa-instagram"></i></a></li>-->
-                                    <!--<li><a href="index-2.html"><i class="fab fa-whatsapp"></i></a></li>-->
-                                    <!--<li><a href="index-2.html"><i class="fab fa-telegram"></i></a></li>-->
-                                <!--</ul>-->
+                                
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
@@ -1440,12 +1450,10 @@ Bravo  WiseTech Global Investment. good work.</p>
                                 </div>
                                 <div class="widget-content">
                                     <ul class="list clearfix">
-                                                                                <li><a href="links/privacy-amp-policy/180.html">Privacy &amp; Policy</a></li>
-                                                                                  <li><a href="links/terms-amp-condition/181.html">Terms &amp; Condition</a></li>
-                                                                                  <li><a href="plan.html">What We Offer</a></li>
+                                        <li><a href="links/privacy-amp-policy/180.html">Privacy &amp; Policy</a></li>
+                                        <li><a href="links/terms-amp-condition/181.html">Terms &amp; Condition</a></li>
+                                        <li><a href="plan.html">What We Offer</a></li>
                                         <li><a href="contact.html">Reach Us</a></li>
-                                        <!--<li><a href="https://mutualassets.net/blog">Our Blog</a></li>-->
-                                        
                                         <li><a href="login.html">Investor Login</a></li>
                                     </ul>
                                 </div>
@@ -1458,7 +1466,7 @@ Bravo  WiseTech Global Investment. good work.</p>
         </div>
         <div class="footer-bottom">
             <div class="auto-container">
-                <div class="copyright"><p>&copy; 2018 <a href="index.html">WiseTech Global</a> - Investment. All rights reserved.</p></div>
+                <div class="copyright"><p>&copy; 2022 <a href="index.html">WiseTech Global</a> - Investment. All rights reserved.</p></div>
             </div>
         </div>
     </footer>
@@ -1498,7 +1506,7 @@ Bravo  WiseTech Global Investment. good work.</p>
                             <h3>Get in touch</h3>
                             <ul class="info-list clearfix">
                                 <li><i class="fas fa-map-marker-alt"></i>Wordsworth Street, Sydenham, , New Zealand</li>
-                                <li><i class="fas fa-envelope"></i><a href="mailto:support@mutualassets.net">support@wisetech Global</a></li>
+                                <li><i class="fas fa-envelope"></i><a href="mailto:wisetechglobal@gmail.com">support@wisetech Global</a></li>
                                 <!--<li><i class="fas fa-headphones-alt"></i><a href="tel:101005200369">+1  0100 5200 369</a></li>-->
                                 <li><i class="far fa-clock"></i>Monday to Friday: 9am - 6pm</li>
                             </ul>
@@ -1644,12 +1652,12 @@ Bravo  WiseTech Global Investment. good work.</p>
 </script>
 
 
-
+<!-- 
 <script>
     (function () {
         "use strict";
         $(document).on("change", ".langSel", function () {
-            window.location.href = "https://mutualassets.net/change/" + $(this).val();
+            window.location.href = "https://assets.net/change/" + $(this).val();
         });
 
         $('.policy').on('click',function(){
@@ -1664,7 +1672,7 @@ Bravo  WiseTech Global Investment. good work.</p>
             });
         });
     })();
-</script>
+</script> -->
 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="810bb48a-ded2-4e67-b2db-53129045fa2b";(function(){d=document;s=d.createElement("script");s.src="../client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 
 </body>
